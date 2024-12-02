@@ -1,3 +1,9 @@
+# Research and Educational Notice
+
+This project is developed solely for research and educational purposes. The primary objective is to investigate and understand how developers can effectively collaborate with AI Coding Agents like Windsurf in their development workflow. This exploration aims to provide insights into the potential and limitations of AI-assisted development processes.
+
+---
+
 # FlPort
 
 FlPort is a comprehensive portfolio management platform designed specifically for freelance software developers and DevOps engineers. It enables professionals to showcase their work, manage client relationships, and grow their business effectively.
